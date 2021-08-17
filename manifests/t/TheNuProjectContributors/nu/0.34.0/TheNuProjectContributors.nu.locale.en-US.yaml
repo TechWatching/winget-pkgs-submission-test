@@ -1,0 +1,13 @@
+# Created using wingetcreate 0.3.0.3
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.0.0.schema.json
+
+PackageIdentifier: TheNuProjectContributors.nu
+PackageVersion: 0.34.0
+PackageLocale: en-US
+Publisher: The Nu Project Contributors
+PackageName: nu
+License: MIT
+ShortDescription: A new type of shell
+ManifestType: defaultLocale
+ManifestVersion: 1.0.0
+
